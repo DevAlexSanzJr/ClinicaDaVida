@@ -1,0 +1,48 @@
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Documentos\respaldo\Proyectos de C#\Windows Forms\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ALUMNO\Desktop\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\ClinicaMedica_DaVida-main\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\Proyecto Final Base\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\Clinica DaVida\CapaDatos\obj\Debug\CapaDatos.pdb
